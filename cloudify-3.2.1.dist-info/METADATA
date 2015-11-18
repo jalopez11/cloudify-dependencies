@@ -1,0 +1,24 @@
+Metadata-Version: 2.0
+Name: cloudify
+Version: 3.2.1
+Summary: Cloudify CLI
+Home-page: UNKNOWN
+Author: Gigaspaces
+Author-email: cosmo-admin@gigaspaces.com
+License: LICENSE
+Platform: UNKNOWN
+Requires-Dist: cloudify-plugins-common (==3.2.1)
+Requires-Dist: cloudify-rest-client (==3.2.1)
+Requires-Dist: cloudify-dsl-parser (==3.2.1)
+Requires-Dist: cloudify-script-plugin (==1.2.1)
+Requires-Dist: pyyaml (==3.10)
+Requires-Dist: argcomplete (==0.7.1)
+Requires-Dist: fabric (==1.8.3)
+Requires-Dist: PrettyTable (>=0.7,<0.8)
+Requires-Dist: ansicolors (==1.0.2)
+Requires-Dist: jinja2 (==2.7.2)
+Requires-Dist: itsdangerous (==0.24)
+
+UNKNOWN
+
+

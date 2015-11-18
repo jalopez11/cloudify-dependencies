@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: cloudify-dsl-parser
+Version: 3.2.1
+Summary: Cloudify DSL parser
+Home-page: UNKNOWN
+Author: Gigaspaces
+Author-email: cosmo-admin@gigaspaces.com
+License: LICENSE
+Platform: UNKNOWN
+Requires-Dist: PyYAML (==3.10)
+Requires-Dist: jsonschema (==2.3.0)
+Requires-Dist: networkx (==1.8.1)
+
+UNKNOWN
+
+
